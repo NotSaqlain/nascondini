@@ -2,6 +2,29 @@
     padding: 0;
     margin: 0;
     text-align: center;
-    
-    background-color: bisque;
+    background-color: rgba(246,224,148,255);
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#nascondino {
+    transform: rotate(-90deg);
+    width: 200px;
+    height: 200px;
+    top: 0;
+    left: 0;
+}
+
+.bg {
+    background-color: rgba(238,190,76,255);
+    text-align: center;
+}
+
+#testo {
+    color: rgba(246,224,148,255);
+    background-color: rgba(114,63,43,255);
+    display: inline-block;
 }
